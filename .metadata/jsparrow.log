@@ -1,0 +1,11 @@
+2023-09-20 18:36:31 [Worker-13: Executing the early startup extensions] INFO  eu.jsparrow.ui.a - Starting jSparrow
+2023-09-20 18:38:32 [Framework stop - Equinox Container: a3f1e103-56a8-48ea-a624-2101501f4dc3] WARN  eu.jsparrow.license.netlicensing.h - Could not find existing license in storage, saving and returning default license
+2023-09-20 18:38:33 [Framework stop - Equinox Container: a3f1e103-56a8-48ea-a624-2101501f4dc3] INFO  eu.jsparrow.ui.a - Stopping jSparrow
+2023-09-20 18:39:10 [main] INFO  eu.jsparrow.ui.a - Starting jSparrow
+2023-09-20 18:40:33 [Framework stop - Equinox Container: 729b77ee-5bef-44bb-88f3-11b51cfca82c] INFO  eu.jsparrow.ui.a - Stopping jSparrow
+2023-09-20 18:41:09 [main] INFO  eu.jsparrow.ui.a - Starting jSparrow
+2023-09-20 18:49:44 [Framework stop - Equinox Container: 4f4e193f-a590-4486-86fe-2b19dd369b9b] INFO  eu.jsparrow.ui.a - Stopping jSparrow
+2023-09-20 18:50:04 [Worker-9: Executing the early startup extensions] INFO  eu.jsparrow.ui.a - Starting jSparrow
+2023-09-20 18:50:52 [Framework stop - Equinox Container: cac56020-d853-4c70-bbe2-00a7edec8f40] INFO  eu.jsparrow.ui.a - Stopping jSparrow
+2023-09-20 18:51:19 [Worker-10: Executing the early startup extensions] INFO  eu.jsparrow.ui.a - Starting jSparrow
+2023-09-20 19:33:02 [Framework stop - Equinox Container: 87cc90da-a35c-43e6-87b6-32abfdbf474e] INFO  eu.jsparrow.ui.a - Stopping jSparrow

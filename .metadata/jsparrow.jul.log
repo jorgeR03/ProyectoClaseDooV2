@@ -1,0 +1,3 @@
+2023-09-20 19:29:25 [main] WARN  jul - No grammar source for scope [source.java]
+2023-09-20 19:29:25 [tm4e.TokenizerThread] WARN  jul - CANNOT find grammar for scopeName [source.java]. I am [source.xml]
+2023-09-20 19:29:25 [tm4e.TokenizerThread] WARN  jul - REMOVING BeginEndRule{id=79,name=source.java.embedded.xml} ENTIRELY DUE TO EMPTY PATTERNS THAT ARE MISSING
